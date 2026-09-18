@@ -1,12 +1,22 @@
 body {
     background-color: rgb(251, 243, 234);
+    font-family: 'Bodoni Moda', serif;
+    color: rgb(35, 61, 77);
 }
 
 header {
-    background-color: rgb(247, 235, 222);
+    background-color: rgb(250, 228, 204);
     padding:
         20px;
     text-align: center;
     color:
         rgb(184, 73, 33);
+}
+
+nav a {
+    margin: 0 5px;
+}
+
+h2 {
+    color: rgb(184, 73, 33);
 }
