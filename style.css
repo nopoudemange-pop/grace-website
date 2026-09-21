@@ -28,11 +28,11 @@ h2 {
 }
 
 button {
-    border-radius: 3px;
+    border-radius: 4px;
     background-color: rgb(184, 73, 33);
     color: rgb(35, 61, 77);
-    border-color: rgb(184, 73, 33);
-    border: 1px solid rgb(184, 73, 33);
+    border-color: rgb(35, 61, 77);
+    border: 2px solid rgb(35, 61, 77);
     font-size: 14px;
 }
 
